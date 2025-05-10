@@ -1,8 +1,8 @@
 # `mood_logger`
 
-## mood_logger_frontend: `https://yca52-kaaaa-aaaaj-qno4a-cai.icp0.io/`
+## Frontend: `https://yca52-kaaaa-aaaaj-qno4a-cai.icp0.io/`
 
-## mood_logger_backend: `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=zpozu-fiaaa-aaaaj-qno3q-cai`
+## Backend: `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=zpozu-fiaaa-aaaaj-qno3q-cai`
 
 Welcome to your new `mood_logger` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
