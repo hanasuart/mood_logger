@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "mood_logger_backend": {
+      "main": "src/mood_logger_backend/main.mo",
+      "type": "motoko"
+    },
+    "mood_logger_frontend": {
+      "dependencies": [
+        "mood_logger_backend"
+      ],
+      "source": [
+        "src/mood_logger_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "mood_logger_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
